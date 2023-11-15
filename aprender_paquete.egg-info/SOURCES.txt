@@ -1,0 +1,8 @@
+setup.py
+aprender_paquete/__init__.py
+aprender_paquete/modulo1.py
+aprender_paquete/modulo2.py
+aprender_paquete.egg-info/PKG-INFO
+aprender_paquete.egg-info/SOURCES.txt
+aprender_paquete.egg-info/dependency_links.txt
+aprender_paquete.egg-info/top_level.txt
